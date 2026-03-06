@@ -1,3 +1,69 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/pingjulin/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="http://10.1.0.176:5180/logo/CCTV-1.png" group-title="🕘️更新时间",2026-03-06 21:29:48
-url
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://10.1.0.187:5180/logo/CCTV1.png" group-title="🕘️更新时间",2026-03-06 22:01:52
+http://74.91.26.218:82/live/cctv4hd.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV4" tvg-logo="http://10.1.0.187:5180/logo/CCTV4.png" group-title="央视频道",CCTV4
+http://74.91.26.218:82/live/cctv4hd.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV5+" tvg-logo="http://10.1.0.187:5180/logo/CCTV5+.png" group-title="央视频道",CCTV5+
+http://74.91.26.218:82/live/cctv5p.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV16" tvg-logo="http://10.1.0.187:5180/logo/CCTV16.png" group-title="央视频道",CCTV16
+http://69.30.246.194/live/cctv16.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV世界地理" tvg-logo="http://10.1.0.187:5180/logo/CCTV世界地理.png" group-title="央视频道",CCTV世界地理
+http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV央视台球" tvg-logo="http://10.1.0.187:5180/logo/CCTV央视台球.png" group-title="央视频道",CCTV央视台球
+http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV女性时尚" tvg-logo="http://10.1.0.187:5180/logo/CCTV女性时尚.png" group-title="央视频道",CCTV女性时尚
+http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV第一剧场" tvg-logo="http://10.1.0.187:5180/logo/CCTV第一剧场.png" group-title="央视频道",CCTV第一剧场
+http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV风云足球" tvg-logo="http://10.1.0.187:5180/logo/CCTV风云足球.png" group-title="央视频道",CCTV风云足球
+http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="10" tvg-name="CGTN俄语" tvg-logo="http://10.1.0.187:5180/logo/CGTN俄语.png" group-title="央视频道",CGTN俄语
+http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="CGTN法语" tvg-logo="http://10.1.0.187:5180/logo/CGTN法语.png" group-title="央视频道",CGTN法语
+http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV文化精品" tvg-logo="http://10.1.0.187:5180/logo/CCTV文化精品.png" group-title="央视频道",CCTV文化精品
+http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="13" tvg-name="兵器科技" tvg-logo="http://10.1.0.187:5180/logo/兵器科技.png" group-title="央视频道",兵器科技
+http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="14" tvg-name="电视指南" tvg-logo="http://10.1.0.187:5180/logo/电视指南.png" group-title="央视频道",电视指南
+http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="15" tvg-name="直播中国" tvg-logo="http://10.1.0.187:5180/logo/直播中国.png" group-title="央视频道",直播中国
+https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 tvg-id="16" tvg-name="风云剧场" tvg-logo="http://10.1.0.187:5180/logo/风云剧场.png" group-title="央视频道",风云剧场
+http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="17" tvg-name="风云音乐" tvg-logo="http://10.1.0.187:5180/logo/风云音乐.png" group-title="央视频道",风云音乐
+http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="18" tvg-name="高尔夫网球" tvg-logo="http://10.1.0.187:5180/logo/高尔夫网球.png" group-title="央视频道",高尔夫网球
+http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="19" tvg-name="北京卫视" tvg-logo="http://10.1.0.187:5180/logo/北京卫视.png" group-title="卫视频道",北京卫视
+http://23.237.228.134/live3/beijing.m3u8
+#EXTINF:-1 tvg-id="19" tvg-name="北京卫视" tvg-logo="http://10.1.0.187:5180/logo/北京卫视.png" group-title="卫视频道",北京卫视
+http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+#EXTINF:-1 tvg-id="20" tvg-name="海峡卫视" tvg-logo="http://10.1.0.187:5180/logo/海峡卫视.png" group-title="卫视频道",海峡卫视
+http://38.64.72.148:80/hls/modn/list/4009/playlist.m3u8
+#EXTINF:-1 tvg-id="20" tvg-name="海峡卫视" tvg-logo="http://10.1.0.187:5180/logo/海峡卫视.png" group-title="卫视频道",海峡卫视
+http://38.64.72.148:80/hls/modn/list/4009/chunklist0.m3u8
+#EXTINF:-1 tvg-id="21" tvg-name="青海卫视" tvg-logo="http://10.1.0.187:5180/logo/青海卫视.png" group-title="卫视频道",青海卫视
+http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="22" tvg-name="三沙卫视" tvg-logo="http://10.1.0.187:5180/logo/三沙卫视.png" group-title="卫视频道",三沙卫视
+http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="22" tvg-name="三沙卫视" tvg-logo="http://10.1.0.187:5180/logo/三沙卫视.png" group-title="卫视频道",三沙卫视
+https://srs.ssws.tv/video/sstv-10/index.m3u8
+#EXTINF:-1 tvg-id="23" tvg-name="深圳卫视" tvg-logo="http://10.1.0.187:5180/logo/深圳卫视.png" group-title="卫视频道",深圳卫视
+http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
+#EXTINF:-1 tvg-id="24" tvg-name="山东教育" tvg-logo="http://10.1.0.187:5180/logo/山东教育.png" group-title="卫视频道",山东教育
+https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
+#EXTINF:-1 tvg-id="25" tvg-name="CHC动作电影" tvg-logo="http://10.1.0.187:5180/logo/CHC动作电影.png" group-title="电影频道",CHC动作电影
+http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="26" tvg-name="CHC家庭影院" tvg-logo="http://10.1.0.187:5180/logo/CHC家庭影院.png" group-title="电影频道",CHC家庭影院
+http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="27" tvg-name="天映经典" tvg-logo="http://10.1.0.187:5180/logo/天映经典.png" group-title="电影频道",天映经典
+http://pull-vivek.speedws.com/live/aaatyjd.flv
+#EXTINF:-1 tvg-id="28" tvg-name="浙江教科影视" tvg-logo="http://10.1.0.187:5180/logo/浙江教科影视.png" group-title="电影频道",浙江教科影视
+http://ali-xwl.cztv.com/live/channel041080Plxw.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="浙江教科影视" tvg-logo="http://10.1.0.187:5180/logo/浙江教科影视.png" group-title="电影频道",浙江教科影视
+http://ali-xwl.cztv.com/live/channel04720Plxw.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="韩国电影2" tvg-logo="http://10.1.0.187:5180/logo/韩国电影2.png" group-title="电影频道",韩国电影2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
+#EXTINF:-1 tvg-id="30" tvg-name="南国都市" tvg-logo="http://10.1.0.187:5180/logo/南国都市.png" group-title="数字频道",南国都市
+https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
